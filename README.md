@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Kabilesh455@gmail.com**
 
-- ⚡ Fun fact **I am lazy person, but is active when i have work**
+- ⚡ Fun fact **I am lazy person, but i active when i have work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
