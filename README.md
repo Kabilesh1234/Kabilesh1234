@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a college student<br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m currently learning react, mysql, etc.<br>⚡  I’m lazy person
+🔭 I’m currently looking for a job<br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m currently learning react, mysql, etc.<br>
 
 
 # 💻 Tech Stack:
